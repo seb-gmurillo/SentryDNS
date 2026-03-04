@@ -1,0 +1,22 @@
+# Logs
+*.log
+logs/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Runtime artifacts
+*.pid
+
+# PowerShell artifacts
+*.psd1
+*.psm1
+*.clixml
+
+# VSCode
+.vscode/
+
+# Temp files
+*.tmp
+*.bak
